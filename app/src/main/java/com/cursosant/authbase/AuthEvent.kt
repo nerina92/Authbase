@@ -1,0 +1,16 @@
+package com.cursosant.authbase
+
+enum class AuthEvent {
+    USER_EXIST,
+    USER_NOT_EXIST,
+    EMPTY_PASSWORD,
+    EMPTY_EMAIL,
+    EMPTY_FORM,
+    INVALID_EMAIL,
+    INVALID_PASSWORD,
+    INVALID_USER,
+    NULL_EMAIL,
+    NULL_PASSWORD,
+    NULL_FORM,
+    ERROR_LENGTH_PASSWORD
+}

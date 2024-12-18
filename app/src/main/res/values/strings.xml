@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auth base</string>
+    <string name="auth_button_login">Ingresar</string>
+    <string name="auth_button_register">Registrar</string>
+    <string name="auth_hint_password">contraseña</string>
+    <string name="auth_hint_email">correo electrónico</string>
+    <string name="main_message_welcome">Bienvenido</string>
+    <string name="main_button_sing_out">Cerrar sesión</string>
+</resources>
